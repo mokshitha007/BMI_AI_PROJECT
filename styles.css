@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: white;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.stMetric {
+    background: #1e293b;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.stButton > button {
+    background: linear-gradient(90deg, #ff4b2b, #ff416c);
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 16px;
+}

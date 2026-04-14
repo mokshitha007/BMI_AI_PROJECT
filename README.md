@@ -1,2 +1,21 @@
-# BMI_AI_PROJECT
-A smart web-based application that calculates Body Mass Index (BMI) and provides AI-driven health insights based on user inputs. This project goes beyond basic BMI calculation by offering personalized recommendations, health interpretations, and user-friendly visualization.
+# 🧠 AI Health Advisor
+
+A production-ready AI-powered web application that analyzes BMI and delivers personalized health insights.
+
+## Features
+- BMI Calculation Engine
+- AI Health Recommendations
+- Health Score System
+- Progress Tracking Dashboard
+- Interactive AI Chat
+
+## Tech Stack
+- Python
+- Streamlit
+- OpenAI API
+
+## Deployment
+Streamlit Cloud
+
+## Author
+MOKSHITHA L
