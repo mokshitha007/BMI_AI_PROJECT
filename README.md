@@ -19,3 +19,7 @@ Streamlit Cloud
 
 ## Author
 MOKSHITHA L
+
+#MODEL PREVIEW
+![Uploading BMI MODEL PREVIEW.png…]()
+
